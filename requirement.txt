@@ -1,0 +1,24 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+
+# Machine Learning
+scikit-learn>=1.3
+
+# Deep Learning
+torch>=2.0
+
+# Visualization
+matplotlib>=3.8
+
+# SQL / Database
+sqlalchemy>=2.0
+
+# Utilities
+tqdm>=4.66
+pyyaml>=6.0
+
+# Optional (uncomment if needed)
+# mlflow>=2.9
+# fastapi>=0.110
+# uvicorn>=0.29
